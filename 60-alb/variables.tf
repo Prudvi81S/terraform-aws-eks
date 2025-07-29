@@ -22,5 +22,5 @@ variable "ingress_alb_tags" {
 
 
 variable "zone_name" {
-    default = "prudvi81s.site"
+    default = "paws81s.site"
 }

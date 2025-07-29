@@ -14,11 +14,10 @@ variable "common_tags" {
     }
 }
 
-
 variable "zone_name" {
-    default = "daws81s.online"
+    default = "paws81s.site"
 }
 
 variable "zone_id" {
-    default = "Z09912121MS725XSKH1TG"
+    default = "Z048057916EC744S43C08"
 }
